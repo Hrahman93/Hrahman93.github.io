@@ -19,8 +19,8 @@ My research has involved collaborations with academia and industry in the fields
 
 ---
 
-#  Final Year Projects Suoervised
-## 1. UGV for robotic applications 
-## 2. Sound based detection of Drones presence and  location. Ultrasonic microphone will be used to get acoustic signals of drones and then based on frequency signal through Machine learning technique. 
-## 3. Modeling and Simulation of Electro Mechanical Torque Simulator and Control Design 
+#  Final Year Projects Supervised
+1. UGV for robotic applications 
+2. Sound based detection of Drones presence and  location. Ultrasonic microphone will be used to get acoustic signals of drones and then based on frequency signal through Machine learning technique.
+3. Modeling and Simulation of Electro Mechanical Torque Simulator and Control Design 
 
