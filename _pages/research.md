@@ -4,8 +4,6 @@ layout: single
 author_profile: true
 ---
 
-# Research Areas
-
 My research integrates biomedical engineering, embedded systems, and artificial intelligence to develop practical solutions for healthcare and industrial applications.
 
 ## Intelligent Refrigeration Systems
