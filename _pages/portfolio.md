@@ -5,7 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-# Research Projects
 
 My research has involved collaborations with academia and industry in the fields of biomedical engineering, intelligent sensing, autonomous systems, and manufacturing.
 
