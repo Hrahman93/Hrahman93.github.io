@@ -13,8 +13,10 @@ My research has involved collaborations with academia and industry in the fields
 
 ## Artificial Heart Pump System
 
-**Funding Agency:** TÜBİTAK  
-**Duration:** 2020–2023  
+**Funding Agency:** TÜBİTAK
+
+**Duration:** 2020–2023
+
 **Role:** Researcher
 
 Development of a real-time physiological environment for the Istanbul Heart Ventricular Assist Device (iHeart) through cardiovascular modeling, control algorithms, and hardware-in-the-loop testing.
@@ -23,8 +25,10 @@ Development of a real-time physiological environment for the Istanbul Heart Vent
 
 ## Advanced Research for Unmanned Air Vehicles
 
-**Funding Agency:** Baykar Savunma  
-**Duration:** 2020–2021  
+**Funding Agency:** Baykar Savunma
+
+**Duration:** 2020–2021
+
 **Role:** Researcher
 
 Conducted research on sensing, control, and advanced engineering technologies for unmanned aerial vehicle (UAV) applications.
@@ -33,8 +37,10 @@ Conducted research on sensing, control, and advanced engineering technologies fo
 
 ## Novel Sensor Development for Manufacturing
 
-**Funding Agency:** Ford Otosan  
-**Duration:** 2020–2021  
+**Funding Agency:** Ford Otosan
+
+**Duration:** 2020–2021
+
 **Role:** Researcher
 
 Designed and evaluated intelligent sensing technologies for manufacturing process monitoring and industrial automation.
