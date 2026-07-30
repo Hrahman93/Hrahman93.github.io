@@ -10,11 +10,11 @@ My research has involved collaborations with academia and industry in the fields
 
 ---
 
-## 1. “Artificial Heart Pump System”, TÜBİTAK, 2020-2023.
+1. “Artificial Heart Pump System”, TÜBİTAK, 2020-2023.
 
-## 2. “Advanced Research for Unmanned Air Vehicles”, Baykar, 2020.
+2. “Advanced Research for Unmanned Air Vehicles”, Baykar, 2020.
 
-## 3. “Novel Wearable Sensor Development for Manufacturing”, Ford Otosan, 2021.
+3. “Novel Wearable Sensor Development for Manufacturing”, Ford Otosan, 2021.
 
 
 ---
