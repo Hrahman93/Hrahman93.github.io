@@ -17,7 +17,7 @@ National University of Sciences and Technology (NUST)
 
 I am an Assistant Professor at the College of Electrical and Mechanical Engineering (CEME), National University of Sciences and Technology (NUST), Pakistan. I received my Ph.D. in Biomedical Science and Engineering from Koç University, Türkiye.
 
-My research focuses on the development of intelligent engineering systems, artificial intelligence and biomedical engineering. My current interests include intelligent refrigeration systems, frost detection and defrost control, medical devices, physiological modeling, and smart sensing technologies.
+My research focuses on the development of intelligent engineering and biomedical engineering. My current interests include refrigeration systems, frost detection and defrost, medical devices, and smart sensing technologies.
 
 I actively collaborate with academia and industry to develop practical engineering solutions for healthcare, manufacturing, and food preservation applications.
 
@@ -43,13 +43,3 @@ Electronics Engineering
 International Islamic University Islamabad
 
 ---
-
-## Current Position
-
-Assistant Professor
-
-College of Electrical and Mechanical Engineering
-
-National University of Sciences and Technology (NUST)
-
-Islamabad, Pakistan
