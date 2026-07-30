@@ -14,3 +14,5 @@ The following courses are currently taught at the undergraduate level.
 - [Electronic Devices and Circuits](/teaching/electronic-devices/)
 - [Introduction to Biomedical Engineering](/teaching/biomedical-engineering/)
 - [Modeling and Simulation](/teaching/modeling-simulation/)
+- [Solid Modeling](/teaching/Solid-Modeling/)
+
