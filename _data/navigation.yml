@@ -17,9 +17,6 @@ main:
   - title: "Books"
     url: /books/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Contact"
     url: /contact/
 
