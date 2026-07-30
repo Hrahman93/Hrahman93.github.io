@@ -24,12 +24,13 @@ author:
   bio: "Assistant Professor | Biomedical Engineering | IoT | Intelligent Refrigeration | Medical Devices"
   location: "Pakistan"
   employer: "National University of Sciences and Technology (NUST)"
+  uri: "https://ceme.nust.edu.pk/faculty/hammad-ur-rahman
   email: "Hammad.rahman@ceme.nust.edu.pk"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=8DkY7Q4AAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
