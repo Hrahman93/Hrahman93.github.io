@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
 
 The following courses are currently taught at the undergraduate level.
 
