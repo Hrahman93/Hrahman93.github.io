@@ -5,8 +5,6 @@ permalink: /books/
 author_profile: true
 ---
 
-# Books & Book Chapters
-
 This page lists authored books, edited books, and book chapters.
 
 ---
@@ -15,15 +13,15 @@ This page lists authored books, edited books, and book chapters.
 
 ### 2026
 
-**Operational Strategies for Frost Mitigation in Refrigeration Systems**
+**Sensors and Actuators used in R&D**
 
 Hammad Ur Rahman, et al.
 
-*Book Title:* (To be updated)
+*Book Title:* Mechatronics and Data Acquisition Systems
 
-Publisher: (To be updated)
+Publisher: Elsevier
 
-Status: In Preparation
+Expected release date: August 28, 2026
 
 ---
 
