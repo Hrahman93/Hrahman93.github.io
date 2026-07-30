@@ -1,12 +1,17 @@
 ---
-layout: archive
+layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+# Teaching
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+The following courses are currently taught at the undergraduate level.
+
+## Courses
+
+- [Linear Control Systems](/teaching/control-systems/)
+- [Electronic Devices and Circuits](/teaching/electronic-devices/)
+- [Introduction to Biomedical Engineering](/teaching/biomedical-engineering/)
+- [Modeling and Simulation](/teaching/modeling-simulation/)
